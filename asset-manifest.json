@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/apalliyil.github.io/static/css/main.5abcb22d.css",
+    "main.js": "/apalliyil.github.io/static/js/main.a02ce02c.js",
+    "static/js/453.1407b060.chunk.js": "/apalliyil.github.io/static/js/453.1407b060.chunk.js",
+    "static/media/spotify.png": "/apalliyil.github.io/static/media/spotify.dffc4909754b59b8ad58.png",
+    "index.html": "/apalliyil.github.io/index.html",
+    "main.5abcb22d.css.map": "/apalliyil.github.io/static/css/main.5abcb22d.css.map",
+    "main.a02ce02c.js.map": "/apalliyil.github.io/static/js/main.a02ce02c.js.map",
+    "453.1407b060.chunk.js.map": "/apalliyil.github.io/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5abcb22d.css",
+    "static/js/main.a02ce02c.js"
+  ]
+}
