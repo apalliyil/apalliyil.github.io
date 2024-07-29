@@ -11,8 +11,8 @@ const Projects = () => {
 
         {
             id: 1,
-            description: 'Penrose: Web-based diagram generator',
-            github: "https://github.com/penrose/penrose",
+            description: 'Penlloy: Web-based diagram generator for Alloy models',
+            github: "https://github.com/penrose/penlloy-alloy-6",
             image: penrose,
 
         },
@@ -32,6 +32,7 @@ const Projects = () => {
 
 
   return (
+    <section id='projects'>
     <Section 
     title='Projects' 
     subtitle='These are the projects I have worked on!'
@@ -51,6 +52,9 @@ const Projects = () => {
             ))}
         </div>
     </Section>
+
+    </section>
+    
   );
 };
 

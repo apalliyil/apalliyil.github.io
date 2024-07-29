@@ -1,8 +1,16 @@
-import React from 'react'
+import React from 'react';
+import Section from '../components/Section';
 
 const Skills = () => {
   return (
-    <div>Skills</div>
+    <section id='skills'>
+    <Section>
+
+
+    </Section>
+      
+    </section>
+    
   )
 }
 

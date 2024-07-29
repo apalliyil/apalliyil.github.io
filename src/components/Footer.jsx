@@ -22,14 +22,14 @@ const Footer = () => {
 
 
   return (
-    <div className='flex justify-evenly items-center text-center py-8 lg:py-16 text-3xl w-full md:w-1/3'>
+    <div className='flex justify-center items-center text-center py-8 lg:py-16 w-full'>
         {Social.map(({id, link, icon}) => (
             <a 
             href={link} 
             key={id}
             target='_blank'
             rel='noopener noreferrer' 
-            className='cursor-pointer duration-300 hover:text-blue-500'
+            className='mx-4 cursor-pointer duration-300 hover:text-blue-500 text-3xl'
             
             >
                 {icon}

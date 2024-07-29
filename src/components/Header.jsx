@@ -9,12 +9,10 @@ const Header = ({darkMode, setDarkMode}) => {
     
     <header className='bg-white dark:bg-gray-900 text-gray-900 dark:text-white'>
         <nav className='flex justify-between items-center p-5'>
-            <h1 className='text-lg'>Home</h1>
-            <h1 className='text-lg'>About</h1>
-            <h1 className='text-lg'>Experience</h1>
-            <h1 className='text-lg'>Projects</h1>
-            <h1 className='text-lg'>Skills</h1>
-            <h1 className='text-lg'>Resume</h1>
+            <h1 className='text-lg'> <a href='#about'>Home</a></h1>
+            <h1 className='text-lg'><a href='#about'>About</a></h1>
+            <h1 className='text-lg'><a href='#experience'>Experience</a></h1>
+            <h1 className='text-lg'><a href='#projects'>Projects</a></h1>
             
             <div onClick={() => setDarkMode(!darkMode)} className='cursor-pointer'>
 
