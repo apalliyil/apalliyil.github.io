@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/apalliyil.github.io/static/css/main.5abcb22d.css",
-    "main.js": "/apalliyil.github.io/static/js/main.a02ce02c.js",
+    "main.css": "/apalliyil.github.io/static/css/main.64f80298.css",
+    "main.js": "/apalliyil.github.io/static/js/main.534479c1.js",
     "static/js/453.1407b060.chunk.js": "/apalliyil.github.io/static/js/453.1407b060.chunk.js",
+    "static/media/website.jpg": "/apalliyil.github.io/static/media/website.64133ee8ce6d18d4146f.jpg",
     "static/media/spotify.png": "/apalliyil.github.io/static/media/spotify.dffc4909754b59b8ad58.png",
     "index.html": "/apalliyil.github.io/index.html",
-    "main.5abcb22d.css.map": "/apalliyil.github.io/static/css/main.5abcb22d.css.map",
-    "main.a02ce02c.js.map": "/apalliyil.github.io/static/js/main.a02ce02c.js.map",
+    "main.64f80298.css.map": "/apalliyil.github.io/static/css/main.64f80298.css.map",
+    "main.534479c1.js.map": "/apalliyil.github.io/static/js/main.534479c1.js.map",
     "453.1407b060.chunk.js.map": "/apalliyil.github.io/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5abcb22d.css",
-    "static/js/main.a02ce02c.js"
+    "static/css/main.64f80298.css",
+    "static/js/main.534479c1.js"
   ]
 }
