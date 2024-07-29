@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/apalliyil.github.io/static/css/main.64f80298.css",
-    "main.js": "/apalliyil.github.io/static/js/main.534479c1.js",
-    "static/js/453.1407b060.chunk.js": "/apalliyil.github.io/static/js/453.1407b060.chunk.js",
-    "static/media/website.jpg": "/apalliyil.github.io/static/media/website.64133ee8ce6d18d4146f.jpg",
-    "static/media/spotify.png": "/apalliyil.github.io/static/media/spotify.dffc4909754b59b8ad58.png",
-    "index.html": "/apalliyil.github.io/index.html",
-    "main.64f80298.css.map": "/apalliyil.github.io/static/css/main.64f80298.css.map",
-    "main.534479c1.js.map": "/apalliyil.github.io/static/js/main.534479c1.js.map",
-    "453.1407b060.chunk.js.map": "/apalliyil.github.io/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/static/css/main.64f80298.css",
+    "main.js": "/static/js/main.f84c47f7.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/website.jpg": "/static/media/website.64133ee8ce6d18d4146f.jpg",
+    "static/media/spotify.png": "/static/media/spotify.dffc4909754b59b8ad58.png",
+    "index.html": "/index.html",
+    "main.64f80298.css.map": "/static/css/main.64f80298.css.map",
+    "main.f84c47f7.js.map": "/static/js/main.f84c47f7.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64f80298.css",
-    "static/js/main.534479c1.js"
+    "static/js/main.f84c47f7.js"
   ]
 }
