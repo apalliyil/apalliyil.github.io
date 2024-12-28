@@ -1,44 +1,39 @@
 import React from 'react';
-import {FaLinkedin,FaGithub} from "react-icons/fa";
-
+import {FaLinkedin, FaGithub} from "react-icons/fa";
 
 const Footer = () => {
-
-
-
-    const Social = [
-        {
-            id: 1,
-            link: "https://www.linkedin.com/in/avinash-palliyil",
-            icon: <FaLinkedin/>
-
-        },
-        {
-            id: 2,
-            link: "https://github.com/apalliyil",
-            icon: <FaGithub/>
-        },
-    ];
-
+  const Social = [
+    {
+      id: 1,
+      link: "https://www.linkedin.com/in/avinash-palliyil",
+      icon: <FaLinkedin/>
+    },
+    {
+      id: 2,
+      link: "https://github.com/apalliyil",
+      icon: <FaGithub/>
+    },
+  ];
 
   return (
-    <div className='flex justify-center items-center text-center py-8 lg:py-16 w-full'>
-        {Social.map(({id, link, icon}) => (
+    <footer className='bg-cream dark:bg-gray-900 py-8 lg:py-16'>
+      <div className='container mx-auto flex justify-center'>
+        <div className='flex gap-8'>
+          {Social.map(({id, link, icon}) => (
             <a 
-            href={link} 
-            key={id}
-            target='_blank'
-            rel='noopener noreferrer' 
-            className='mx-4 cursor-pointer duration-300 hover:text-blue-500 text-3xl'
-            
+              href={link} 
+              key={id}
+              target='_blank'
+              rel='noopener noreferrer' 
+              className='text-3xl text-gray-800 dark:text-white hover:text-blue-500 transition-colors'
             >
-                {icon}
+              {icon}
             </a>
-        ))}
-    </div>
-  )
-}
+          ))}
+        </div>
+      </div>
+    </footer>
+  );
+};
 
-export default Footer
-
-//flex-col justify-start items-center
+export default Footer;

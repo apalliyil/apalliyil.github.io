@@ -27,6 +27,7 @@ function App() {
       <About></About>
       <Projects></Projects>
       <Experience></Experience>
+      <Skills></Skills>
       <Footer></Footer>
     </main>
 
