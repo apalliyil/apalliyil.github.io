@@ -41,7 +41,7 @@ const Projects = () => {
                 { name: 'C', category: 'language' },
                 { name: 'mGBA', category: 'tool' }
             ],
-            link: "placeholder"
+            link: "https://github.com/apalliyil/Racing-Game"
         },
         {
             id: 4,
@@ -53,7 +53,7 @@ const Projects = () => {
                 { name: 'JavaFX', category: 'framework' },
                 { name: 'Swing', category: 'framework' }
             ],
-            link: "placeholder"
+            link: "https://github.com/apalliyil/Jordle"
         },
         {
             id: 5,

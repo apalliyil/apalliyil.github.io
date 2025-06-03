@@ -33,21 +33,23 @@ const About = () => {
           {/* Right Column */}
           <div className='md:w-2/3 space-y-4'>
             <p className='text-gray-800 dark:text-white'>
-              Hi! My name is Avinash Palliyil. I am a fourth-year CS major at the Georgia Institute of Technology with threads in People and Theory. 
+              Hi! My name is Avinash Palliyil. I am an incoming MS Computer Science student at the Georgia Institute of Technology. This past May, I graduated with a B.S. in Computer Science from Georgia Tech with threads in People and Theory. 
               My passion lies in the areas of human-computer interaction and visualization.
             </p>
             
             <p className='text-gray-800 dark:text-white'>
-              Since writing my first lines of code in 2021, I have looked for ways to combine my love for technology and design by working on different personal projects. 
-              I have also sought out research opportunities to work on novel solutions to various software engineering challenges.
+              I am constantly looking for ways to combine my love for technology and design by working on different projects in the field of HCI, including 
+              research addressing novel approaches to software engineering challenges.
             </p>
 
             <p className='text-gray-800 dark:text-white'>
-              Most recently, I have been working as an <a href='https://www.cmu.edu/scs/s3d/reuse/people/index.html' className='text-blue-600 hover:underline' rel='noreferrer' target='_blank'>REU intern</a> at Carnegie Mellon University researching visualization techniques for formal methods.
+              Last summer, I worked as an <a href='https://www.cmu.edu/scs/s3d/reuse/people/index.html' className='text-blue-600 hover:underline' rel='noreferrer' target='_blank'>REU intern</a> at Carnegie Mellon University researching visualization techniques for formal methods.
+              This summer, I will be working on implementing interactive graph components for <a href='https://github.com/uwdata/mosaic' className='text-blue-600 hover:underline' rel='noreferrer' target='_blank'>Mosaic</a>, a data visualization framework that links databases to scalable and interactive visualizations both server-side and within the browser.
             </p>
 
             <p className='text-gray-800 dark:text-white'>
-              In my free time, you can find me playing tennis, listening to music, or doing crossword puzzles.
+              In my free time, you can find me playing tennis, listening to and mixing music, <a href='https://letterboxd.com/avnsh/' className='text-blue-600 hover:underline' rel='noreferrer' target='_blank'>watching movies</a>, or doing crossword puzzles.  
+              You can also check out my  profile.
             </p>
           </div>
         </div>
